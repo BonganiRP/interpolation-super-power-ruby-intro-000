@@ -2,4 +2,4 @@
 def display_rainbow(colors)
   puts colors
 end
-display_rainbow(['red','orange','yello','green','blue','indigo','violet'])
+display_rainbow(["R: #{red}",'orange','yello','green','blue','indigo','violet'])
